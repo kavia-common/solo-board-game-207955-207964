@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/solo-board-game-207955-207964/board_game_frontend"
+}
